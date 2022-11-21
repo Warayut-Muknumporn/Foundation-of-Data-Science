@@ -1,4 +1,4 @@
-# Foundation-of-Data-Science
+# Foundation-of-Data-Science (Data part)
 This project is one part of module foundation of data science 
 
 Download the data set fish1.txt about the catch of a hypothetical fishing fleet from
