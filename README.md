@@ -15,3 +15,13 @@ More generally, address the following questions and give support for your answer
 What is the best time to go fishing at this lake?
 Which bait is most effective?
 What is the best type of bait to use at 3pm in the afternoon?
+
+#Analysis
+![Y_density_100](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/ceebc244-2582-4c9f-869d-fc2acc7e00a8)
+![X_fish_24bins](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/64599ab5-6189-4af5-970a-48c12e84f42b)
+![Scatter_plot_3](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/29b42d66-ed1c-4158-bdd7-976243cd1190)
+![line number if fish caugh in one day](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/f7d8ecb9-ebb9-459e-b274-534d9cb3676c)
+![Distribution in each hour](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/c3bce1f9-0627-4c36-adf6-e454e0d7b236)
+![95%mean_frequency_X](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/12d35965-ff60-4eb5-b563-624ba090b033)
+![95%distribution_frequency_X](https://github.com/Warayut-Muknumporn/Foundation-of-Data-Science-Data-Part/assets/116235617/6abf363c-a590-41c4-a70c-42f5a79390e2)
+
